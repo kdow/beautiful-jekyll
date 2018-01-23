@@ -7,6 +7,8 @@ layout: post
 
 {% include toc %}
 
+{:toc}
+
 This report explores a dataset of 113,937 loans with 81 variables for each loan.
 These variables include information about the loan such as the amount, rate,
 length, and status, as well as information on the borrower, such as credit
