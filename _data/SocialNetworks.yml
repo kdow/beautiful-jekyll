@@ -95,3 +95,13 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+tableau:
+  name: "Tableau Public"
+  baseURL: "https://public.tableau.com/profile/"
+  icon: "fa-area-chart"
+
+kaggle:
+  name: "Kaggle"
+  baseURL: "https://www.kaggle.com/"
+  icon: "fa-bar-chart"
