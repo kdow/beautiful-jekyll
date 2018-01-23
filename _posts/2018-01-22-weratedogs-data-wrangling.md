@@ -1,10 +1,8 @@
 ---
 title: WeRateDogs Data Wrangling Project
-category: python
-tags: data-wrangling
+tags: python, data-wrangling
 date: 2018-01-22
 layout: post
-author_profile: true
 ---
 
 This project was part of the data wrangling section of the Udacity Data Analyst Nanodegree program and is primarily focused on wrangling data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account using Python, documented in a Jupyter Notebook. To view the Notebook and data, please see my [GitHub repository](https://github.com/kdow/WeRateDogs).
