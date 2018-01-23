@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: My personal website
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Work
+My work experience includes data aggregation, administrative coordination, and technical support.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Education
+I graduated from UCLA with a BA in Linguistics and French. I've continued my
+education through online learning platforms such as EdX, Lynda, Datacamp, and Udacity.
 
-What else do you need?
+I recently completed Udacity's Data Analyst Nanodegree program where I learned
+the data analysis process of questioning, wrangling, exploring, analyzing, and
+communicating data, including:
 
-### my history
+- Exploring data using R at multiple levels using appropriate visualizations,
+acquiring statistical knowledge for summarizing data, and developing intuition
+around a data set.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Developing my data wrangling process of gathering, assessing, and cleaning
+data. Learning how to use Python to wrangle data programmatically and prepare it
+for deeper analysis.
+
+- Applying optimal design methodologies in Tableau and data visualization
+principles to the data analysis process. Learning how to use analysis and
+visualizations to tell a story with data.
