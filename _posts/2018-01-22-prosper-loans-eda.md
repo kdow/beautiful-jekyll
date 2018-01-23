@@ -4,14 +4,15 @@ tags: r, eda
 date: 2018-01-22
 layout: post
 ---
-In this post:
-{% include toc %}
-{:toc}
 
 This report explores a dataset of 113,937 loans with 81 variables for each loan.
 These variables include information about the loan such as the amount, rate,
 length, and status, as well as information on the borrower, such as credit
 grade, income range, and employment status.
+
+In this post:
+{% include toc %}
+{:toc}
 
 Let's look at the structure of this dataset:
 
