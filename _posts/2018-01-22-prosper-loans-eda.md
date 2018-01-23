@@ -3,9 +3,9 @@ title: Prosper Loans Exploratory Data Analysis
 tags: r, eda
 date: 2018-01-22
 layout: post
-toc: true
-toc_depth: 3
 ---
+
+{% include toc %}
 
 This report explores a dataset of 113,937 loans with 81 variables for each loan.
 These variables include information about the loan such as the amount, rate,
