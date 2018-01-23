@@ -7,6 +7,7 @@ layout: post
 
 {% include toc %}
 
+In this post:
 {:toc}
 
 This report explores a dataset of 113,937 loans with 81 variables for each loan.
