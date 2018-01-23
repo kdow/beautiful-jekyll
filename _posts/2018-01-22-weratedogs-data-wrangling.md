@@ -7,7 +7,6 @@ layout: post
 author_profile: true
 ---
 
-## Introduction
 This project was part of the data wrangling section of the Udacity Data Analyst Nanodegree program and is primarily focused on wrangling data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account using Python, documented in a Jupyter Notebook. To view the Notebook and data, please see my [GitHub repository](https://github.com/kdow/WeRateDogs).
 
 The WeRateDogs Twitter account rates dogs with humorous commentary. The rating denominator is usually 10, however, the numerators are usually greater than 10. This aspect was not cleaned as it is part of the humor and popularity of WeRateDogs.
